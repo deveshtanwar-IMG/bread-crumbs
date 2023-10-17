@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.breadcrumb{
+    height: 30px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 0px;
+    cursor: pointer;
+}
+
+.role{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.no-role{
+    color: black;
+}
